@@ -1,0 +1,21 @@
+id;nom;prix_unitaire;TVA;stock
+1;Paracétamol 500 mg (boîte de 16);2.00;2.10;50
+2;Doliprane 1000 mg (boîte de 8);3.50;2.10;50
+3;Ibuprofène 400 mg (boîte de 20);3.90;2.10;50
+4;Biafine tube 100g;6.90;10.00;50
+5;Crème hydratante visage 50ml;14.90;20.00;50
+6;Gel hydroalcoolique 250ml;4.50;5.50;50
+7;Sirop contre la toux adulte 150ml;5.90;2.10;50
+8;Spray nasal décongestionnant;7.80;10.00;50
+9;Vitamine C 1000 mg (20 comprimés);8.90;10.00;50
+10;Shampooing antipelliculaire 200ml;9.90;20.00;50
+11;Dentifrice fluoré 75ml;4.20;20.00;47
+12;Thermomètre électronique;12.90;20.00;50
+13;Masque chirurgical (boîte de 50);9.50;5.50;50
+14;Gel de massage musculaire 100ml;6.80;10.00;50
+15;Gants nitrile (boîte de 100);12.00;5.50;50
+16;Pansements adhésifs (boîte de 40);3.20;2.10;50
+17;Lait infantile 1er âge 800g;17.90;5.50;42
+18;Solution pour lentilles 360ml;7.50;10.00;50
+19;Complément alimentaire fer et vitamines;11.50;10.00;50
+20;Crème solaire SPF50+ 100ml;13.90;20.00;50
